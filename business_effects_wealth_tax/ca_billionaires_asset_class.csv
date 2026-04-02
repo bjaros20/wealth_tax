@@ -1,0 +1,213 @@
+rank,name,net_worth,trre,wealth_in_tax_base,source_of_wealth,asset_class,departed_flag,ambiguous,notes
+1,Larry Page,256200000000.0,101500000,256098500000,Google/Alphabet (GOOGL),PUBLIC,1,False,Page's primary residence is now a Florida mansion.
+2,Sergey Brin,236400000000.0,35000000,236365000000,Google/Alphabet (GOOGL),PUBLIC,1,False,
+3,Mark Zuckerberg,225100000000.0,300000000,224800000000,Meta Platforms (META),PUBLIC,0,False,Zuckerberg's compund consists of 11 different properties ranging from $5 million to $15 million.
+4,Jensen Huang,162600000000.0,52400000,162547600000,Nvidia (NVDA),PUBLIC,0,False,Huang also has a $38 million San Francisco Mansion.
+5,Eric Schmidt,35600000000.0,600000000,35000000000,Google/Alphabet (GOOGL),PUBLIC,0,False,Schmidt also bought a $30.8 million estate in Montecito in 2020.
+6,Henry Samueli,32000000000.0,20150000,31979850000,Broadcom (AVGO),PUBLIC,0,False,Samueli only seems to have one residence.
+7,Peter Thiel,26700000000.0,77200000,26622800000,Palantir (PLTR) + Founders Fund VC,PUBLIC,1,True,
+8,Robert Pera,25500000000.0,21550000,25478450000,Ubiquiti (UI),PUBLIC,0,False,"Pera's primary residence is in San Jose, but no sources confirm its value. One of Pera's other residences is a $21.5 million NYC penthouse."
+9,Adam Foroughi,25000000000.0,159008928.6,24840991071,AppLovin (APP),PUBLIC,0,False,
+10,Henry Nicholas III,21900000000.0,19777777,21880222223,"Broadcom cofounder, now diversified",OTHER,0,True,
+11,John Doerr,20000000000.0,127207142.9,19872792857,Kleiner Perkins (VC),VCPE,0,False,
+12,Donald Bren,19200000000.0,122118857.1,19077881143,Irvine Company (private RE company),VCPE,0,False,
+13,Eric Smidt,17900000000.0,54000000,17846000000,Harbor Freight Tools (private),VCPE,0,False,
+14,John Tu,17500000000.0,7250000,17492750000,Kingston Technology (private),VCPE,0,False,
+15,David Sun,17500000000.0,111306250,17388693750,Kingston Technology (private),VCPE,0,False,
+16,Jan Koum,17100000000.0,400000000,16700000000,"WhatsApp exit proceeds, diversified",OTHER,0,False,Koum's $187 million compound consists of two houses.
+17,George Roberts,15900000000.0,29084160,15870915840,KKR & Co. (KKR),PUBLIC,0,False,
+18,Laurene Powell Jobs,14000000000.0,242000000,13758000000,Apple (AAPL) + Disney (DIS) shares,PUBLIC,0,False,
+19,Jack Dangermond,13800000000.0,87772928.57,13712227071,Esri (private GIS company),VCPE,0,False,
+20,Antony Ressler,13100000000.0,100000000,13000000000,Ares Management (ARES),PUBLIC,0,False,"Ressler's various LA properties are estimated to be worth over $100,000,000."
+21,Vinod Khosla,12500000000.0,79504464.29,12420495536,Khosla Ventures (VC),VCPE,0,False,
+22,Riley Bechtel,11600000000.0,86100000,11513900000,Bechtel Group (private),VCPE,0,False,
+23,Dustin Moskovitz,11200000000.0,800000,11199200000,Asana (ASAN) + Meta (META),PUBLIC,0,False,"Moskovitz' primary residence is an $800,000 San Francisco condo."
+24,Douglas Leone,10700000000.0,80000000,10620000000,Sequoia Capital (VC),VCPE,0,False,
+25,Chris Larsen,10200000000.0,13500000,10186500000,Ripple/XRP (crypto),OTHER,0,False,
+26,Brian Armstrong,10100000000.0,133000000,9967000000,Coinbase (COIN),PUBLIC,0,False,
+27,Marijke Mars,10000000000.0,63603571.43,9936396429,Mars Inc. (private),VCPE,0,False,
+28,Tom Gores,10000000000.0,138000000,9862000000,Platinum Equity (private PE),VCPE,0,False,
+29,Andrew Karam,9800000000.0,62331500,9737668500,Unknown/unclear,OTHER,0,True,
+30,Brian Chesky,9600000000.0,61059428.57,9538940571,Airbnb (ABNB),PUBLIC,0,False,
+31,Marc Benioff,9300000000.0,18000000,9282000000,Salesforce (CRM),PUBLIC,0,False,
+32,David Geffen,9200000000.0,132000000,9068000000,"Entertainment, diversified",OTHER,0,False,
+33,Nathan Blecharczyk,9100000000.0,57879250,9042120750,Airbnb (ABNB),PUBLIC,0,False,
+34,Steven Rales,8600000000.0,54699071.43,8545300929,Danaher (DHR),PUBLIC,0,False,
+35,Don Hankey,8100000000.0,51300000,8048700000,Hankey Group (private auto/lending),VCPE,1,False,"Estimated value on homes.com is $6,882,000 - $19,119,746 "
+36,Tench Coxe,7800000000.0,8683775,7791316225,Sutter Hill Ventures (VC),VCPE,0,False,"Estimated value on homes.com is $5,573,000 $8,683,775"
+37,Michael Moritz,7700000000.0,10600000,7689400000,Sequoia Capital (VC),VCPE,0,False,
+38,Edward Roski Jr,7600000000.0,8107000,7591893000,Majestic Realty (private),VCPE,0,False,"Estimated value on homes.com is $6,522,000 - $8,107,000."
+39,Michael Milken,7400000000.0,179750000,7220250000,Diversified financial/MiCA,OTHER,0,False,
+40,Steven Spielberg,7000000000.0,250000000,6750000000,"Entertainment, diversified",OTHER,1,False,Spielberg's property is estimated to be between $100 million and $250 million. 
+41,Edythe Broad,6900000000.0,43886464.29,6856113536,"Broad Foundation, diversified",OTHER,0,False,
+42,Scott Cook,6900000000.0,15830193,6884169807,Intuit (INTU),PUBLIC,0,False,"Estimated value on homes.com is 6,309,000-15,830,193"
+43,Baiju Bhatt,6700000000.0,42614392.86,6657385607,Robinhood (HOOD),PUBLIC,0,False,
+44,Vlad Tenev,6400000000.0,40706285.71,6359293714,Robinhood (HOOD),PUBLIC,0,False,
+45,John A. Sobrato,6400000000.0,40706285.71,6359293714,Sobrato Organization (private RE),VCPE,0,False,
+46,Stephen Cohen,6300000000.0,1031715,6298968285,Uncertain (possible Synopsys/finance),OTHER,0,True,"Estimated value on homes.com is $916,859 - $1,131,000"
+47,Rick Caruso,5900000000.0,86500000,5813500000,Caruso Affiliated (private RE dev),VCPE,0,False,Caruso's primary estate is estimated to be worth $60-80 million.
+48,Ken Xie,5700000000.0,14340561,5685659439,Fortinet (FTNT),PUBLIC,0,False,
+49,Jayshree Ullal,5600000000.0,7862000,5592138000,Arista Networks (ANET),PUBLIC,0,False,"Estimated values on homes.com is $803,000 - $877,000 and $6,190,389 - $6,985,000."
+50,Archie Aldis Emmerson,5600000000.0,35618000,5564382000,Sierra Pacific Industries (private),VCPE,0,False,
+51,Romesh T. Wadhwani,5500000000.0,34981964.29,5465018036,Symphony Technology Group (private PE),VCPE,0,False,
+52,Neal Blue,5400000000.0,34345928.57,5365654071,General Atomics (private defense),VCPE,0,False,
+53,Gordon Getty,5400000000.0,29608760,5370391240,"Getty Oil proceeds, diversified",OTHER,0,False,"Estimated value on redfin.com is $29,608,760."
+54,Patrick Soon-Shiong,5400000000.0,162500000,5237500000,NantHealth / private biotech portfolio,VCPE,0,False,Main estate consists of 7 properties combined for $30 million dollars according to celebritynetworth.com
+55,Jean (Gigi) Pritzker,5400000000.0,34345928.57,5365654071,"Pritzker family, diversified",OTHER,0,False,
+56,Stewart Resnick,5300000000.0,17115689,5282884311,The Wonderful Company (private),VCPE,0,False,"Estimated value on homes.com is $8,902,000 - $17,115,689."
+57,Lynda Resnick,5300000000.0,17115689,5282884311,The Wonderful Company (private),VCPE,0,False,"Estimated value on homes.com is $8,902,000 - $17,115,689."
+58,Eduardo Vivas,5300000000.0,33709892.86,5266290107,Uncertain/unclear,OTHER,0,True,
+59,George Lucas,5300000000.0,123000000,5177000000,Lucasfilm exit (Disney stock/cash),OTHER,0,False,"Lucas also owns ""Skywalker Ranch"", but this is not a residential property and is instead used for business."
+60,Reed Hastings,5100000000.0,3250000,5096750000,Netflix (NFLX),PUBLIC,0,False,Hastings also owns property in Hollywood. 
+61,Eric Yuan,5100000000.0,32437821.43,5067562179,Zoom Video (ZM),PUBLIC,0,False,
+62,Gwendolyn Sontheim Meyer,5000000000.0,31801785.71,4968198214,Cargill family (private ag),VCPE,0,False,
+63,Jim Coulter,5000000000.0,31801785.71,4968198214,TPG Inc. (TPG),PUBLIC,0,False,
+64,Jack Dorsey,4900000000.0,31900000,4868100000,Block/Square (XYZ),PUBLIC,0,False,"Compound consists of two residences, one bought in 2012 for $10 million and one bought in 2019 for $21.9 million. His Hollywood Hills residence was later sold."
+65,David Baszucki,4900000000.0,31165750,4868834250,Roblox (RBLX),PUBLIC,0,False,
+66,Scott Crabill,4800000000.0,59322762,4740677238,Thoma Bravo (private PE),VCPE,0,False,"Estimated value on homes.com is $7,527,000 - $22,222,762."
+67,Holden Spaht,4800000000.0,6849000,4793151000,Thoma Bravo (private PE),VCPE,0,False,"Estimated value on homes.com is $6,849,000."
+68,Seth Boro,4800000000.0,5884000,4794116000,Thoma Bravo (private PE),VCPE,0,False,"Estimated value on homes.com is $2,842,000 - $5,884,000."
+69,Michael Xie,4800000000.0,25671792,4774328208,Fortinet (FTNT),PUBLIC,0,False,"Estimated value on homes.com is $8,136,000 - $13,269,963"
+70,Dagmar Dolby,4800000000.0,90000000,4710000000,Dolby Laboratories (DLB),PUBLIC,0,False,"Estimated value on homes.com is $5,631,000 - $7,809,894."
+71,David Filo,4500000000.0,28621607.14,4471378393,"Yahoo/Altaba dissolved, diversified",OTHER,0,False,
+72,Rupert Johnson Jr,4400000000.0,27985571.43,4372014429,Franklin Templeton (BEN),PUBLIC,0,False,
+73,Anthony Pritzker,4400000000.0,195000000,4205000000,"Pritzker Group, diversified",OTHER,0,False,
+74,Rodney Sacks,4300000000.0,27349535.71,4272650464,Monster Beverage (MNST),PUBLIC,0,False,
+75,Donald Sterling,4300000000.0,29825465,4270174535,Real estate/private (ex-Clippers),OTHER,0,False,"Estimated value on homes.com is $5,584,000 - $11,443,465."
+76,Sanjit Biswas,4100000000.0,26077464.29,4073922536,Samsara (IOT),PUBLIC,0,False,
+77,Thomas Siebel,4000000000.0,25441428.57,3974558571,C3.ai (AI) + prior Siebel Systems,PUBLIC,0,False,
+78,John Bicket,4000000000.0,25441428.57,3974558571,Unknown/unclear,OTHER,0,True,
+79,José E. Feliciano,3800000000.0,50000000,3750000000,Clearlake Capital (private PE),VCPE,0,False,
+80,Meg Whitman,3800000000.0,6500000,3793500000,"eBay/HP exec, diversified",OTHER,0,False,"While listed for sale, Whitman still seems to have not sold the residence yet."
+81,Behdad Eghbali,3800000000.0,21000000,3779000000,Clearlake Capital (private PE),VCPE,0,False,
+82,Peter Gassner,3800000000.0,1977425,3798022575,Veeva Systems (VEEV),PUBLIC,0,False,"Estimated value on homes.com is $1,887,000 - $2,072,000"
+83,John Fisher,3700000000.0,29250000,3670750000,Gap Inc. (GPS),PUBLIC,0,False,
+84,Danny Harris,3700000000.0,30000000,3670000000,Unknown/unclear,OTHER,0,True,
+85,Jared Kaplan,3700000000.0,23533321.43,3676466679,Anthropic (private AI),VCPE,0,False,
+86,Dario Amodei,3700000000.0,23533321.43,3676466679,Anthropic (private AI),VCPE,0,False,
+87,Tom Brown,3700000000.0,2572000,3697428000,Anthropic (private AI),VCPE,0,False,
+88,Jack Clark,3700000000.0,23533321.43,3676466679,Anthropic (private AI),VCPE,0,False,
+89,Sam McCandlish,3700000000.0,4831145,3695168855,Anthropic (private AI),VCPE,0,False,
+90,Daniela Amodei,3700000000.0,23533321.43,3676466679,Anthropic (private AI),VCPE,0,False,
+91,Marco DeGeorge,3600000000.0,12982483,3587017517,Unknown/unclear,OTHER,0,True,"Estimated value on homes.com is $4,142,000 - $12,982,483."
+92,Kavitark Ram Shriram,3600000000.0,22897285.71,3577102714,Google early investor (GOOGL shares),PUBLIC,0,False,
+93,Hemant Taneja,3600000000.0,13784748,3586215252,General Catalyst (VC),VCPE,0,False,"Estimated value on homes.com is $9,271,000 - $13,784,748."
+94,Richard Peery,3500000000.0,22261250,3477738750,Private real estate investment,VCPE,0,True,
+95,Brian Acton,3500000000.0,86000000,3414000000,"WhatsApp exit proceeds, diversified",OTHER,0,False,Acton's compound consists of 7 Palo Alto houses.
+96,Travis Kalanick,3500000000.0,43300000,3456700000,CloudKitchens (private),VCPE,0,False,
+97,Palmer Luckey,3500000000.0,12500000,3487500000,Anduril Industries (private defense),VCPE,0,False,"Unclear if Luckey is moving, but he is a vocal critic of tax."
+98,Parker Conrad,3400000000.0,21625214.29,3378374786,Rippling (private HR software),VCPE,0,False,
+99,Frank Slootman,3300000000.0,10243300,3289756700,Snowflake (SNOW),PUBLIC,0,False,
+100,George Argyros,3200000000.0,42000000,3158000000,Arnel Group (private RE/PE),VCPE,0,False,
+101,Jay Paul,3200000000.0,28250000,3171750000,Private real estate development,VCPE,0,False,
+102,Vasily Shikin,3200000000.0,20353142.86,3179646857,Unknown/unclear,OTHER,0,True,
+103,Haim Saban,3200000000.0,57500000,3142500000,"Entertainment/media, diversified",OTHER,0,False,
+104,Alexandr Wang,3200000000.0,20353142.86,3179646857,Scale AI (private),VCPE,0,False,
+105,Jeff Rothschild,3200000000.0,20353142.86,3179646857,Meta (META) early exec shares,PUBLIC,0,False,
+106,William Chisholm,3100000000.0,15563106,3084436894,Unknown/unclear,OTHER,0,True,
+107,Oprah Winfrey,3100000000.0,150000000,2950000000,"Entertainment, diversified",OTHER,0,False,"Winfrey has several other California real estate holdings, totaling around $100,000,000."
+108,Jerry Yang,3000000000.0,19081071.43,2980918929,"Yahoo exit, diversified",OTHER,0,False,
+109,Sean Parker,3000000000.0,55000000,2945000000,Meta (META) early shares + other,PUBLIC,0,True,
+110,Nicolas Berggruen,2900000000.0,63100000,2836900000,"Berggruen Holdings, diversified",OTHER,0,False,
+111,Aneel Bhusri,2900000000.0,12072842,2887927158,Workday (WDAY),PUBLIC,0,False,"Estimated value on homes.com is $6,578,000 - $12,072,842."
+112,Tim Draper,2800000000.0,17197000,2782803000,Draper Fisher Jurvetson (VC),VCPE,0,False,
+113,Daniel Pritzker,2800000000.0,17809000,2782191000,"Pritzker family, diversified",OTHER,0,False,
+114,Jed McCaleb,2800000000.0,17809000,2782191000,Stellar/XRP crypto,OTHER,0,False,
+115,Fred Ehrsam,2800000000.0,17809000,2782191000,Paradigm (crypto VC fund),VCPE,0,False,
+116,Tony Xu,2700000000.0,17172964.29,2682827036,DoorDash (DASH),PUBLIC,0,False,
+117,John Pritzker,2600000000.0,16536928.57,2583463071,"Pritzker family, diversified",OTHER,0,False,
+118,George Joseph,2600000000.0,17143216,2582856784,Mercury Insurance (MCY),PUBLIC,0,False,
+119,Jeff T. Green,2600000000.0,12300000,2587700000,The Trade Desk (TTD),PUBLIC,0,False,
+120,Tim Cook,2600000000.0,10000000,2590000000,Apple (AAPL) executive shares,PUBLIC,0,False,
+121,Anthony Wood,2500000000.0,15900892.86,2484099107,Roku (ROKU),PUBLIC,0,False,
+122,Evan Spiegel,2500000000.0,120000000,2380000000,Snap Inc. (SNAP),PUBLIC,0,False,
+123,Barbara Banke,2500000000.0,15900892.86,2484099107,Jackson Family Wines (private),VCPE,0,False,
+124,Herald Chen,2400000000.0,11668997,2388331003,KKR partner (PE carry/co-investments),VCPE,0,False,
+125,Reid Hoffman,2400000000.0,15264857.14,2384735143,LinkedIn exit (MSFT) + Greylock VC,OTHER,0,True,
+126,Jeff Tangney,2400000000.0,13339211,2386660789,Doximity (DOCS),PUBLIC,0,False,
+127,Bennett Rosenthal,2300000000.0,8683316,2291316684,Ares Management (ARES),PUBLIC,0,False,
+128,Bruce Karsh,2300000000.0,68820000,2231180000,Oaktree Capital (OAK/Brookfield),PUBLIC,0,False,
+129,Sheryl Sandberg,2300000000.0,11000000,2289000000,Meta Platforms (META) executive,PUBLIC,0,False,
+130,Joe Lacob,2300000000.0,19800000,2280200000,Golden State Warriors + KPCB VC,OTHER,0,False,
+131,Kevin Systrom,2300000000.0,14628821.43,2285371179,Instagram exit -> Meta (META) shares,PUBLIC,0,True,
+132,Kenneth Hao,2300000000.0,9411000,2290589000,Silver Lake (private PE),VCPE,0,False,
+133,David Kaplan,2200000000.0,13992785.71,2186007214,Ares Management (ARES),PUBLIC,0,False,
+134,Egon Durban,2200000000.0,13992785.71,2186007214,Silver Lake (private PE),VCPE,0,False,
+135,Tom Ford,2200000000.0,38750000,2161250000,"Tom Ford brand sold, diversified",OTHER,0,False,
+136,Max Levchin,2200000000.0,13992785.71,2186007214,Affirm (AFRM),PUBLIC,0,False,
+137,Irving Grousbeck,2200000000.0,13992785.71,2186007214,"Boston Celtics/Stanford, diversified",OTHER,0,False,
+138,James Scapa,2200000000.0,30000000,2170000000,Altair Engineering (ALTR),PUBLIC,0,False,
+139,Surya Midha,2200000000.0,13992785.71,2186007214,Unknown/unclear,OTHER,0,True,
+140,Brendan Foody,2200000000.0,13992785.71,2186007214,Unknown/unclear,OTHER,0,True,
+141,Adarsh Hiremath,2200000000.0,13992785.71,2186007214,Unknown/unclear,OTHER,0,True,
+142,Sarah MacMillan,2100000000.0,13356750,2086643250,Cargill family (private ag),VCPE,0,False,
+143,Jon Winkelried,2100000000.0,5512000,2094488000,TPG Inc. (TPG),PUBLIC,0,False,"Estimated value on homes.com is $4,126,000 - $5,512,000."
+144,Richard Saghian,2100000000.0,141000000,1959000000,Fashion Nova (private),VCPE,0,False,
+145,Alec Gores,2100000000.0,17000000,2083000000,The Gores Group (private PE),VCPE,0,False,
+146,Walter Wang,2000000000.0,34000000,1966000000,Kingston Technology (private),VCPE,0,False,
+147,Patrick Hanrahan,2000000000.0,7322885,1992677115,"Pixar exit (Disney stock/cash), div.",OTHER,0,False,"Estimated value on homes.com is $4,895,000 - $7,322,885."
+148,Tom Werner,2000000000.0,12720714.29,1987279286,"Sports/media (Red Sox, Liverpool)",OTHER,0,False,
+149,Thomas Steyer,2000000000.0,12720714.29,1987279286,Farallon Capital (private hedge fund),OTHER,0,False,
+150,Bobby Murphy,2000000000.0,12720714.29,1987279286,Snap Inc. (SNAP),PUBLIC,0,False,
+151,Dylan Field,2000000000.0,12720714.29,1987279286,"Figma (private, post-Adobe deal fail)",VCPE,0,False,
+152,Sam Altman,1900000000.0,27000000,1873000000,OpenAI (private AI),VCPE,0,False,
+153,Geoffrey Palmer,1900000000.0,12084678.57,1887915321,Palmer real estate (private),VCPE,0,True,
+154,Evan Williams,1900000000.0,12084678.57,1887915321,"Twitter/Medium exits, diversified",OTHER,0,False,
+155,Riaz Valani,1900000000.0,110000000,1790000000,"Global Asset Capital, unclear",OTHER,0,True,"Home has been listed for sale by Valani since September 2025, but has not yet been sold."
+156,Marc Andreessen,1900000000.0,177000000,1723000000,Andreessen Horowitz / a16z (VC),VCPE,0,False,
+157,Kim Kardashian,1800000000.0,60000000,1740000000,SKIMS (private),VCPE,0,False,"Kardashian owns other California residences, but the hidden hills mansion is her primary residence."
+158,Mark Attanasio,1800000000.0,11448642.86,1788551357,Crescent Capital (private credit/PE),VCPE,0,False,
+159,Andy Fang,1700000000.0,10812607.14,1689187393,DoorDash (DASH),PUBLIC,0,False,
+160,Robert Fisher,1700000000.0,10812607.14,1689187393,Gap Inc. (GPS),PUBLIC,0,False,
+161,Gary Michelson,1700000000.0,23900000,1676100000,"Medical patents, diversified",OTHER,0,False,
+162,William Fisher,1700000000.0,10812607.14,1689187393,Gap Inc. (GPS),PUBLIC,0,False,
+163,Paul Sciarra,1700000000.0,10812607.14,1689187393,Pinterest (PINS),PUBLIC,0,False,
+164,Nicholas Pritzker,1600000000.0,10176571.43,1589823429,"Pritzker family, diversified",OTHER,0,False,
+165,Edward Glazer,1600000000.0,10176571.43,1589823429,"Tampa Bay Buccaneers, RE, diversified",OTHER,0,False,
+166,Bill Gross,1600000000.0,35820000,1564180000,"PIMCO founder, diversified financial",OTHER,0,False,"Gross owns another Laguna mansion worth $32,000,000."
+167,Art Levinson,1600000000.0,10176571.43,1589823429,"Genentech/Apple board, diversified",OTHER,0,False,
+168,Kevin Marchetti,1600000000.0,10176571.43,1589823429,Unknown/unclear,OTHER,0,True,
+169,Jeffrey Gundlach,1600000000.0,15000000,1585000000,DoubleLine Capital (private),VCPE,0,False,
+170,Sue Gross,1600000000.0,8030000,1591970000,"PIMCO divorce proceeds, diversified",OTHER,0,False,
+171,Michael Cagney,1600000000.0,10961462,1589038538,Figure / SoFi private fintech,VCPE,0,False,
+172,Charles Liang,1600000000.0,10176571.43,1589823429,Super Micro Computer (SMCI),PUBLIC,0,False,
+173,Benoit Dageville,1600000000.0,10176571.43,1589823429,Snowflake (SNOW),PUBLIC,0,False,
+174,Doris Fisher,1500000000.0,15398401,1484601599,Gap Inc. (GPS),PUBLIC,0,False,"Estimated value on homes.com is $5,901,000 - $15,398,401."
+175,Steven Tisch,1500000000.0,15713764,1484286236,"Entertainment/media, diversified",OTHER,0,False,"Estimated value on homes.com is $7,724,000 - $15,713,764."
+176,Peter Guber,1500000000.0,9540535.714,1490459464,"Sports/entertainment, diversified",OTHER,0,False,
+177,Ben Silbermann,1500000000.0,6016000,1493984000,Pinterest (PINS),PUBLIC,0,False,"Estimated value on homes.com is $5,201,141 - $6,085,000."
+178,Nikil Viswanathan,1500000000.0,9540535.714,1490459464,Alchemy (private web3/crypto infra),VCPE,0,False,
+179,Joe Lau,1500000000.0,9540535.714,1490459464,Unknown/unclear,OTHER,0,True,
+180,Mike Speiser,1500000000.0,9540535.714,1490459464,Sutter Hill Ventures (VC),VCPE,0,False,
+181,Sundar Pichai,1500000000.0,8195833,1491804167,Google/Alphabet (GOOGL) CEO shares,PUBLIC,0,False,
+182,Michael Teel,1500000000.0,9540535.714,1490459464,Raley's (private grocery chain),VCPE,0,False,
+183,Magic Johnson,1400000000.0,19420738,1380579262,"Magic Johnson Enterprises, diversified",OTHER,0,False,"Estimated value on homes.com is $7,196,000."
+184,George Marcus,1400000000.0,7271292,1392728708,Marcus & Millichap (MMI),PUBLIC,0,False,
+185,Mark Pincus,1400000000.0,8904500,1391095500,Zynga/Take-Two + diversified,OTHER,0,True,"Pincus also bought a $4 million Bolinas, CA mansion in 2009."
+186,Lucy Guo,1400000000.0,29500000,1370500000,Scale AI + Backend Capital (VC),VCPE,0,False,
+187,Brett Adcock,1400000000.0,8904500,1391095500,Archer Aviation (ACHR),PUBLIC,0,False,
+188,Nikesh Arora,1400000000.0,8904500,1391095500,Palo Alto Networks (PANW),PUBLIC,0,False,
+189,Thierry Cruanes,1300000000.0,2648000,1297352000,Snowflake (SNOW),PUBLIC,0,False,"Estimated value on homes.com is $2,491,046 - $2,648,000."
+190,Sanjay Gajendra,1300000000.0,8089000,1291911000,Unknown/unclear,OTHER,0,True,
+191,Jitendra Mohan,1300000000.0,14634965,1285365035,Unknown/unclear,OTHER,0,True,"Estimated value on homes.com is $2,686,785 - $3,006,000."
+192,Frederic Luddy,1300000000.0,13000000,1287000000,ServiceNow (NOW),PUBLIC,0,False,
+193,Marissa Mayer,1300000000.0,35000000,1265000000,"Yahoo/Altaba dissolved, diversified",OTHER,0,False,
+194,Richard Kayne,1300000000.0,8268464.286,1291731536,Kayne Anderson (private investments),VCPE,0,False,
+195,JoeBen Bevirt,1300000000.0,8268464.286,1291731536,Joby Aviation (JOBY),PUBLIC,0,False,
+196,Shyam Sankar,1300000000.0,6797000,1293203000,Palantir (PLTR) CTO shares,PUBLIC,0,False,
+197,LeBron James,1300000000.0,70000000,1230000000,Entertainment/sports/SpringHill,OTHER,0,False,
+198,Aman Sanger,1300000000.0,8268464.286,1291731536,Unknown/unclear,OTHER,0,True,
+199,Michael Truell,1300000000.0,8268464.286,1291731536,Anysphere/Cursor (private AI),VCPE,0,False,
+200,Steve Huffman,1200000000.0,7632428.571,1192367571,Reddit (RDDT),PUBLIC,0,False,
+201,Stanley Tang,1200000000.0,7632428.571,1192367571,DoorDash (DASH),PUBLIC,0,False,
+202,Donald Friese,1200000000.0,5413302,1194586698,Unknown/unclear,OTHER,0,True,
+203,Jean-Marc Chapus,1200000000.0,27995000,1172005000,Canyon Partners (private credit HF),OTHER,0,False,
+204,Arnold Schwarzenegger,1100000000.0,10887000,1089113000,"Entertainment/real estate, diversified",OTHER,0,False,"Home 1: Estimated value on homes.com is $5,299,000"
+205,Theresia Gouw,1100000000.0,13122419,1086877581,Acrew Capital (VC),VCPE,0,False,"Estimated value on homes.com is $6,511,000 - $13,122,419."
+206,Chi Fung Cheng,1100000000.0,6996392.857,1093003607,Unknown/unclear,OTHER,0,True,
+207,Jeff Lawson,1100000000.0,6996392.857,1093003607,Twilio (TWLO),PUBLIC,0,False,
+208,Joe Kiani,1100000000.0,28090701,1071909299,Masimo (MASI),PUBLIC,0,False,"Home 1: Estimated value on homes.com is $9,071,000 - $13,476,701; Home 2: Estimated value on homes.com is $7,733,000 - $10,754,000; Home 3: Estimated value on homes.com is $2,111,901 - $3,860,000"
+209,Evan Wallace,1000000000.0,6360357.143,993639642.9,"Figma (private, post-Adobe deal fail)",VCPE,0,False,
+210,Tom Preston-Werner,1000000000.0,6360357.143,993639642.9,"GitHub exit (MSFT), diversified",OTHER,0,False,
+211,Trae Stephens,1000000000.0,6360357.143,993639642.9,Anduril + Founders Fund (VC/PE),VCPE,0,False,
+212,David Sacks,2000000000.0,12752600,1987247400,YOLO Holdings / AI VC investments,VCPE,1,False,
