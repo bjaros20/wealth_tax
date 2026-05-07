@@ -1,0 +1,533 @@
+[
+  {
+    "rank": 18.0,
+    "name": "Laurene Powell Jobs",
+    "net_worth": "$14B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 23.0,
+    "name": "Dustin Moskovitz",
+    "net_worth": "$11.2B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": "Moskovitz' primary residence is an $800,000 San Francisco condo.",
+    "moving_source": null
+  },
+  {
+    "rank": 25.0,
+    "name": "Chris Larsen",
+    "net_worth": "$10.2B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 30.0,
+    "name": "Brian Chesky",
+    "net_worth": "$9.6B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": "https://www.washingtonpost.com/technology/2026/01/19/california-wealth-tax-exodus/"
+  },
+  {
+    "rank": 31.0,
+    "name": "Marc Benioff",
+    "net_worth": "$9.3B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 33.0,
+    "name": "Nathan Blecharczyk",
+    "net_worth": "$9.1B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 37.0,
+    "name": "Michael Moritz",
+    "net_worth": "$7.7B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": "https://www.bloomberg.com/news/articles/2026-01-08/california-wealth-tax-threat-pushes-billionaires-to-texas-florida"
+  },
+  {
+    "rank": 53.0,
+    "name": "Gordon Getty",
+    "net_worth": "$5.4B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": "Estimated value on redfin.com is $29,608,760.",
+    "moving_source": null
+  },
+  {
+    "rank": 63.0,
+    "name": "Jim Coulter",
+    "net_worth": "$5B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 64.0,
+    "name": "Jack Dorsey",
+    "net_worth": "$4.9B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": "Compound consists of two residences, one bought in 2012 for $10 million and one bought in 2019 for $21.9 million. His Hollywood Hills residence was later sold.",
+    "moving_source": null
+  },
+  {
+    "rank": 65.0,
+    "name": "David Baszucki",
+    "net_worth": "$4.9B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 66.0,
+    "name": "Scott Crabill",
+    "net_worth": "$4.8B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": "Estimated value on homes.com is $7,527,000 - $22,222,762.",
+    "moving_source": null
+  },
+  {
+    "rank": 67.0,
+    "name": "Holden Spaht",
+    "net_worth": "$4.8B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": "Estimated value on homes.com is $6,849,000.",
+    "moving_source": null
+  },
+  {
+    "rank": 70.0,
+    "name": "Dagmar Dolby",
+    "net_worth": "$4.8B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": "Estimated value on homes.com is $5,631,000 - $7,809,894.",
+    "moving_source": null
+  },
+  {
+    "rank": 76.0,
+    "name": "Sanjit Biswas",
+    "net_worth": "$4.1B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 78.0,
+    "name": "John Bicket",
+    "net_worth": "$4B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 83.0,
+    "name": "John Fisher",
+    "net_worth": "$3.7B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 86.0,
+    "name": "Dario Amodei",
+    "net_worth": "$3.7B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 87.0,
+    "name": "Tom Brown",
+    "net_worth": "$3.7B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 88.0,
+    "name": "Jack Clark",
+    "net_worth": "$3.7B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 89.0,
+    "name": "Sam McCandlish",
+    "net_worth": "$3.7B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 90.0,
+    "name": "Daniela Amodei",
+    "net_worth": "$3.7B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 98.0,
+    "name": "Parker Conrad",
+    "net_worth": "$3.4B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": "https://www.forbes.com/sites/chasewithorn/2026/01/15/los-angeles-billionaire-moves-to-nevada-after-california-threatens-to-tax-wealth/"
+  },
+  {
+    "rank": 101.0,
+    "name": "Jay Paul",
+    "net_worth": "$3.2B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 102.0,
+    "name": "Vasily Shikin",
+    "net_worth": "$3.2B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 104.0,
+    "name": "Alexandr Wang",
+    "net_worth": "$3.2B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 111.0,
+    "name": "Aneel Bhusri",
+    "net_worth": "$2.9B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": "Estimated value on homes.com is $6,578,000 - $12,072,842.",
+    "moving_source": null
+  },
+  {
+    "rank": 115.0,
+    "name": "Fred Ehrsam",
+    "net_worth": "$2.8B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 116.0,
+    "name": "Tony Xu",
+    "net_worth": "$2.7B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 117.0,
+    "name": "John Pritzker",
+    "net_worth": "$2.6B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 131.0,
+    "name": "Kevin Systrom",
+    "net_worth": "$2.3B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 136.0,
+    "name": "Max Levchin",
+    "net_worth": "$2.2B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 139.0,
+    "name": "Surya Midha",
+    "net_worth": "$2.2B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 140.0,
+    "name": "Brendan Foody",
+    "net_worth": "$2.2B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 141.0,
+    "name": "Adarsh Hiremath",
+    "net_worth": "$2.2B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 143.0,
+    "name": "Jon Winkelried",
+    "net_worth": "$2.1B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": "Estimated value on homes.com is $4,126,000 - $5,512,000.",
+    "moving_source": null
+  },
+  {
+    "rank": 149.0,
+    "name": "Thomas Steyer",
+    "net_worth": "$2B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 151.0,
+    "name": "Dylan Field",
+    "net_worth": "$2B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 152.0,
+    "name": "Sam Altman",
+    "net_worth": "$1.9B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 154.0,
+    "name": "Evan Williams",
+    "net_worth": "$1.9B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 160.0,
+    "name": "Robert Fisher",
+    "net_worth": "$1.7B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 162.0,
+    "name": "William Fisher",
+    "net_worth": "$1.7B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 163.0,
+    "name": "Paul Sciarra",
+    "net_worth": "$1.7B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 168.0,
+    "name": "Kevin Marchetti",
+    "net_worth": "$1.6B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 171.0,
+    "name": "Michael Cagney",
+    "net_worth": "$1.6B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 174.0,
+    "name": "Doris Fisher",
+    "net_worth": "$1.5B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": "Estimated value on homes.com is $5,901,000 - $15,398,401.",
+    "moving_source": null
+  },
+  {
+    "rank": 177.0,
+    "name": "Ben Silbermann",
+    "net_worth": "$1.5B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": "Estimated value on homes.com is $5,201,141 - $6,085,000.",
+    "moving_source": null
+  },
+  {
+    "rank": 178.0,
+    "name": "Nikil Viswanathan",
+    "net_worth": "$1.5B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 180.0,
+    "name": "Mike Speiser",
+    "net_worth": "$1.5B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 185.0,
+    "name": "Mark Pincus",
+    "net_worth": "$1.4B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": "Pincus also bought a $4 million Bolinas, CA mansion in 2009.",
+    "moving_source": null
+  },
+  {
+    "rank": 198.0,
+    "name": "Aman Sanger",
+    "net_worth": "$1.3B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 199.0,
+    "name": "Michael Truell",
+    "net_worth": "$1.3B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 200.0,
+    "name": "Steve Huffman",
+    "net_worth": "$1.2B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 201.0,
+    "name": "Stanley Tang",
+    "net_worth": "$1.2B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 207.0,
+    "name": "Jeff Lawson",
+    "net_worth": "$1.1B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 209.0,
+    "name": "Evan Wallace",
+    "net_worth": "$1B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 210.0,
+    "name": "Tom Preston-Werner",
+    "net_worth": "$1B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 211.0,
+    "name": "Trae Stephens",
+    "net_worth": "$1B",
+    "residence": "San Francisco",
+    "moving": "N",
+    "notes": null,
+    "moving_source": null
+  },
+  {
+    "rank": 212.0,
+    "name": "David Sacks",
+    "net_worth": "$2B",
+    "residence": "San Francisco",
+    "moving": "Y",
+    "notes": null,
+    "moving_source": null
+  }
+]
