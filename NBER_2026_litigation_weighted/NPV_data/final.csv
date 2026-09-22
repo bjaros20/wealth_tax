@@ -1,0 +1,241 @@
+rank,name,panel,bucket,in_collectible_base,net_worth_usd,net_worth_usd_7pct,trre_usd,wealth_in_tax_base_usd,wealth_in_tax_base_usd_7pct,face_tax_5pct,source_of_wealth,forbes_asset_class,public_wealth,private_other_wealth,other_real_estate,base_treatment,removal_reason
+1,Larry Page,domestic,removed_departed,False,256200000000.0,274134000000.0,101500000.0,256098500000.0,274025395000.0,13701269750.0,Google/Alphabet (GOOGL),PUBLIC,,,101500000.0,moving_pre_snapshot,Confirmed departure between the Oct 2025 filing and the Jan 1 2026 residency snapshot (Section 4.3)
+2,Sergey Brin,domestic,removed_departed,False,236400000000.0,252948000000.0,35000000.0,236365000000.0,252910550000.0,12645527500.0,Google/Alphabet (GOOGL),PUBLIC,,,35000000.0,moving_pre_snapshot,Confirmed departure between the Oct 2025 filing and the Jan 1 2026 residency snapshot (Section 4.3)
+3,Mark Zuckerberg,domestic,zuckerberg,False,225100000000.0,240857000000.0,300000000.0,224800000000.0,240536000000.0,12026800000.0,Meta Platforms (META),PUBLIC,,,300000000.0,in_base,Departed Feb 2026 after the residency snapshot; excluded from the central estimate (Section 4.4)
+4,Jensen Huang,domestic,stayer_base,True,162600000000.0,173982000000.0,52400000.0,162547600000.0,173925932000.0,8696296600.0,Nvidia (NVDA),PUBLIC,,,52400000.0,in_base,
+5,Eric Schmidt,domestic,stayer_base,True,35600000000.0,38092000000.0,600000000.0,35000000000.0,37450000000.0,1872500000.0,Google/Alphabet (GOOGL),PUBLIC,,,600000000.0,in_base,
+6,Henry Samueli,domestic,stayer_base,True,32000000000.0,34240000000.0,20150000.0,31979850000.0,34218439500.0,1710921975.0,Broadcom (AVGO),PUBLIC,,,20150000.0,in_base,
+7,Peter Thiel,domestic,removed_departed,False,26700000000.0,28569000000.0,77200000.0,26622800000.0,28486396000.0,1424319800.0,Palantir (PLTR) + Founders Fund VC,PUBLIC,,,77200000.0,moving_pre_snapshot,Confirmed departure between the Oct 2025 filing and the Jan 1 2026 residency snapshot (Section 4.3)
+8,Robert Pera,domestic,stayer_base,True,25500000000.0,27285000000.0,21550000.0,25478450000.0,27261941500.0,1363097075.0,Ubiquiti (UI),PUBLIC,,,21550000.0,in_base,
+9,Adam Foroughi,domestic,stayer_base,True,25000000000.0,26750000000.0,159008929.0,24840991071.0,26579860445.97,1328993022.2985,AppLovin (APP),PUBLIC,,,159008929.0,in_base,
+10,Henry Nicholas III,domestic,stayer_base,True,21900000000.0,23433000000.0,19777777.0,21880222223.0,23411837778.61,1170591888.9305,"Broadcom cofounder, now diversified",OTHER,,,19777777.0,in_base,
+11,John Doerr,domestic,stayer_base,True,20000000000.0,21400000000.0,127207143.0,19872792857.0,21263888356.99,1063194417.8495002,Kleiner Perkins (VC),VCPE,,,127207143.0,in_base,
+12,Donald Bren,domestic,stayer_base,True,19200000000.0,20544000000.0,122118857.0,19077881143.0,20413332823.01,1020666641.1504999,Irvine Company (private RE company),VCPE,,,122118857.0,in_base,
+13,Eric Smidt,domestic,stayer_base,True,17900000000.0,19153000000.0,54000000.0,17846000000.0,19095220000.0,954761000.0,Harbor Freight Tools (private),VCPE,,,54000000.0,in_base,
+14,John Tu,domestic,stayer_base,True,17500000000.0,18725000000.0,7250000.0,17492750000.0,18717242500.0,935862125.0,Kingston Technology (private),VCPE,,,7250000.0,in_base,
+15,David Sun,domestic,stayer_base,True,17500000000.0,18725000000.0,111306250.0,17388693750.0,18605902312.5,930295115.625,Kingston Technology (private),VCPE,,,111306250.0,in_base,
+16,Jan Koum,domestic,stayer_base,True,17100000000.0,18297000000.0,400000000.0,16700000000.0,17869000000.0,893450000.0,"WhatsApp exit proceeds, diversified",OTHER,,,400000000.0,in_base,
+17,George Roberts,domestic,stayer_base,True,15900000000.0,17013000000.0,29084160.0,15870915840.0,16981879948.8,849093997.44,KKR & Co. (KKR),PUBLIC,,,29084160.0,in_base,
+18,Laurene Powell Jobs,domestic,stayer_base,True,14000000000.0,14980000000.0,242000000.0,13758000000.0,14721060000.0,736053000.0,Apple (AAPL) + Disney (DIS) shares,PUBLIC,,,242000000.0,in_base,
+19,Jack Dangermond,domestic,stayer_base,True,13800000000.0,14766000000.0,87772929.0,13712227071.0,14672082965.97,733604148.2985001,Esri (private GIS company),VCPE,,,87772929.0,in_base,
+20,Antony Ressler,domestic,stayer_base,True,13100000000.0,14017000000.0,100000000.0,13000000000.0,13910000000.0,695500000.0,Ares Management (ARES),PUBLIC,,,100000000.0,in_base,
+21,Vinod Khosla,domestic,stayer_base,True,12500000000.0,13375000000.0,79504464.0,12420495536.0,13289930223.52,664496511.1760001,Khosla Ventures (VC),VCPE,,,79504464.0,in_base,
+22,Riley Bechtel,domestic,stayer_base,True,11600000000.0,12412000000.0,86100000.0,11513900000.0,12319873000.0,615993650.0,Bechtel Group (private),VCPE,,,86100000.0,in_base,
+23,Dustin Moskovitz,domestic,stayer_base,True,11200000000.0,11984000000.0,800000.0,11199200000.0,11983144000.0,599157200.0,Asana (ASAN) + Meta (META),PUBLIC,,,800000.0,in_base,
+24,Douglas Leone,domestic,stayer_base,True,10700000000.0,11449000000.0,80000000.0,10620000000.0,11363400000.0,568170000.0,Sequoia Capital (VC),VCPE,,,80000000.0,in_base,
+25,Chris Larsen,domestic,stayer_base,True,10200000000.0,10914000000.0,13500000.0,10186500000.0,10899555000.0,544977750.0,Ripple/XRP (crypto),OTHER,,,13500000.0,in_base,
+26,Brian Armstrong,domestic,stayer_base,True,10100000000.0,10807000000.0,133000000.0,9967000000.0,10664690000.0,533234500.0,Coinbase (COIN),PUBLIC,,,133000000.0,in_base,
+27,Marijke Mars,domestic,stayer_base,True,10000000000.0,10700000000.0,63603571.0,9936396429.0,10631944179.03,531597208.95150006,Mars Inc. (private),VCPE,,,63603571.0,in_base,
+28,Tom Gores,domestic,stayer_base,True,10000000000.0,10700000000.0,138000000.0,9862000000.0,10552340000.0,527617000.0,Platinum Equity (private PE),VCPE,,,138000000.0,in_base,
+29,Andrew Karam,domestic,stayer_base,True,9800000000.0,10486000000.0,62331500.0,9737668500.0,10419305295.0,520965264.75,Unknown/unclear,OTHER,,,62331500.0,in_base,
+30,Brian Chesky,domestic,stayer_base,True,9600000000.0,10272000000.0,61059429.0,9538940571.0,10206666410.97,510333320.5485,Airbnb (ABNB),PUBLIC,,,61059429.0,in_base,
+31,Marc Benioff,domestic,removed_prefiling,False,9300000000.0,9951000000.0,18000000.0,9282000000.0,9931740000.0,496587000.0,Salesforce (CRM),PUBLIC,,,18000000.0,removed_pre_filing,Departed California before the Oct 15 2025 initiative filing (Section 3.3)
+32,David Geffen,domestic,stayer_base,True,9200000000.0,9844000000.0,132000000.0,9068000000.0,9702760000.0,485138000.0,"Entertainment, diversified",OTHER,,,132000000.0,in_base,
+33,Nathan Blecharczyk,domestic,stayer_base,True,9100000000.0,9737000000.0,57879250.0,9042120750.0,9675069202.5,483753460.125,Airbnb (ABNB),PUBLIC,,,57879250.0,in_base,
+34,Steven Rales,domestic,stayer_base,True,8600000000.0,9202000000.0,54699071.0,8545300929.0,9143471994.03,457173599.70150006,Danaher (DHR),PUBLIC,,,54699071.0,in_base,
+35,Don Hankey,domestic,removed_departed,False,8100000000.0,8667000000.0,51300000.0,8048700000.0,8612109000.0,430605450.0,Hankey Group (private auto/lending),VCPE,,,51300000.0,moving_pre_snapshot,Confirmed departure between the Oct 2025 filing and the Jan 1 2026 residency snapshot (Section 4.3)
+36,Tench Coxe,domestic,stayer_base,True,7800000000.0,8346000000.0,8683775.0,7791316225.0,8336708360.75,416835418.0375,Sutter Hill Ventures (VC),VCPE,,,8683775.0,in_base,
+37,Michael Moritz,domestic,stayer_base,True,7700000000.0,8239000000.0,10600000.0,7689400000.0,8227658000.0,411382900.0,Sequoia Capital (VC),VCPE,,,10600000.0,in_base,
+38,Edward Roski Jr,domestic,stayer_base,True,7600000000.0,8132000000.0,8107000.0,7591893000.0,8123325510.0,406166275.5,Majestic Realty (private),VCPE,,,8107000.0,in_base,
+39,Michael Milken,domestic,ambiguous,True,7400000000.0,7918000000.0,179750000.0,7220250000.0,7725667500.0,386283375.0,Diversified financial/MiCA,OTHER,,,179750000.0,in_base,Departure signals that do not meet the threshold for confirmed departure; remains in the recognized base at q = 0.50 (Section 4.4)
+40,Steven Spielberg,domestic,removed_departed,False,7000000000.0,7490000000.0,250000000.0,6750000000.0,7222500000.0,361125000.0,"Entertainment, diversified",OTHER,,,250000000.0,moving_pre_snapshot,Confirmed departure between the Oct 2025 filing and the Jan 1 2026 residency snapshot (Section 4.3)
+41,Edythe Broad,domestic,stayer_base,True,6900000000.0,7383000000.0,43886464.0,6856113536.0,7336041483.52,366802074.17600006,"Broad Foundation, diversified",OTHER,,,43886464.0,in_base,
+42,Scott Cook,domestic,stayer_base,True,6900000000.0,7383000000.0,15830193.0,6884169807.0,7366061693.49,368303084.6745,Intuit (INTU),PUBLIC,,,15830193.0,in_base,
+43,Baiju Bhatt,domestic,stayer_base,True,6700000000.0,7169000000.0,42614393.0,6657385607.0,7123402599.49,356170129.9745,Robinhood (HOOD),PUBLIC,,,42614393.0,in_base,
+44,Vlad Tenev,domestic,stayer_base,True,6400000000.0,6848000000.0,40706286.0,6359293714.0,6804444273.98,340222213.699,Robinhood (HOOD),PUBLIC,,,40706286.0,in_base,
+45,John A. Sobrato,domestic,stayer_base,True,6400000000.0,6848000000.0,40706286.0,6359293714.0,6804444273.98,340222213.699,Sobrato Organization (private RE),VCPE,,,40706286.0,in_base,
+46,Stephen Cohen,domestic,stayer_base,True,6300000000.0,6741000000.0,1031715.0,6298968285.0,6739896064.95,336994803.2475,Uncertain (possible Synopsys/finance),OTHER,,,1031715.0,in_base,
+47,Rick Caruso,domestic,stayer_base,True,5900000000.0,6313000000.0,86500000.0,5813500000.0,6220445000.0,311022250.0,Caruso Affiliated (private RE dev),VCPE,,,86500000.0,in_base,
+48,Ken Xie,domestic,stayer_base,True,5700000000.0,6099000000.0,14340561.0,5685659439.0,6083655599.73,304182779.98649997,Fortinet (FTNT),PUBLIC,,,14340561.0,in_base,
+49,Jayshree Ullal,domestic,stayer_base,True,5600000000.0,5992000000.0,7862000.0,5592138000.0,5983587660.0,299179383.0,Arista Networks (ANET),PUBLIC,,,7862000.0,in_base,
+50,Archie Aldis Emmerson,domestic,stayer_base,True,5600000000.0,5992000000.0,35618000.0,5564382000.0,5953888740.0,297694437.0,Sierra Pacific Industries (private),VCPE,,,35618000.0,in_base,
+51,Romesh T. Wadhwani,domestic,stayer_base,True,5500000000.0,5885000000.0,34981964.0,5465018036.0,5847569298.52,292378464.92600006,Symphony Technology Group (private PE),VCPE,,,34981964.0,in_base,
+52,Neal Blue,domestic,stayer_base,True,5400000000.0,5778000000.0,34345929.0,5365654071.0,5741249855.97,287062492.7985,General Atomics (private defense),VCPE,,,34345929.0,in_base,
+53,Gordon Getty,domestic,stayer_base,True,5400000000.0,5778000000.0,29608760.0,5370391240.0,5746318626.8,287315931.34000003,"Getty Oil proceeds, diversified",OTHER,,,29608760.0,in_base,
+54,Patrick Soon-Shiong,domestic,stayer_base,True,5400000000.0,5778000000.0,162500000.0,5237500000.0,5604125000.0,280206250.0,NantHealth / private biotech portfolio,VCPE,,,162500000.0,in_base,
+55,Jean (Gigi) Pritzker,domestic,stayer_base,True,5400000000.0,5778000000.0,34345929.0,5365654071.0,5741249855.97,287062492.7985,"Pritzker family, diversified",OTHER,,,34345929.0,in_base,
+56,Stewart Resnick,domestic,stayer_base,True,5300000000.0,5671000000.0,17115689.0,5282884311.0,5652686212.77,282634310.63850003,The Wonderful Company (private),VCPE,,,17115689.0,in_base,
+57,Lynda Resnick,domestic,stayer_base,True,5300000000.0,5671000000.0,17115689.0,5282884311.0,5652686212.77,282634310.63850003,The Wonderful Company (private),VCPE,,,17115689.0,in_base,
+58,Eduardo Vivas,domestic,stayer_base,True,5300000000.0,5671000000.0,33709893.0,5266290107.0,5634930414.49,281746520.7245,Uncertain/unclear,OTHER,,,33709893.0,in_base,
+59,George Lucas,domestic,stayer_base,True,5300000000.0,5671000000.0,123000000.0,5177000000.0,5539390000.0,276969500.0,Lucasfilm exit (Disney stock/cash),OTHER,,,123000000.0,in_base,
+60,Reed Hastings,domestic,stayer_base,True,5100000000.0,5457000000.0,3250000.0,5096750000.0,5453522500.0,272676125.0,Netflix (NFLX),PUBLIC,,,3250000.0,in_base,
+61,Eric Yuan,domestic,stayer_base,True,5100000000.0,5457000000.0,32437821.0,5067562179.0,5422291531.53,271114576.5765,Zoom Video (ZM),PUBLIC,,,32437821.0,in_base,
+62,Gwendolyn Sontheim Meyer,domestic,stayer_base,True,5000000000.0,5350000000.0,31801786.0,4968198214.0,5315972088.98,265798604.449,Cargill family (private ag),VCPE,,,31801786.0,in_base,
+63,Jim Coulter,domestic,stayer_base,True,5000000000.0,5350000000.0,31801786.0,4968198214.0,5315972088.98,265798604.449,TPG Inc. (TPG),PUBLIC,,,31801786.0,in_base,
+64,Jack Dorsey,domestic,stayer_base,True,4900000000.0,5243000000.0,31900000.0,4868100000.0,5208867000.0,260443350.0,Block/Square (XYZ),PUBLIC,,,31900000.0,in_base,
+65,David Baszucki,domestic,stayer_base,True,4900000000.0,5243000000.0,31165750.0,4868834250.0,5209652647.5,260482632.375,Roblox (RBLX),PUBLIC,,,31165750.0,in_base,
+66,Scott Crabill,domestic,stayer_base,True,4800000000.0,5136000000.0,59322762.0,4740677238.0,5072524644.66,253626232.233,Thoma Bravo (private PE),VCPE,,,59322762.0,in_base,
+67,Holden Spaht,domestic,stayer_base,True,4800000000.0,5136000000.0,6849000.0,4793151000.0,5128671570.0,256433578.5,Thoma Bravo (private PE),VCPE,,,6849000.0,in_base,
+68,Seth Boro,domestic,stayer_base,True,4800000000.0,5136000000.0,5884000.0,4794116000.0,5129704120.0,256485206.0,Thoma Bravo (private PE),VCPE,,,5884000.0,in_base,
+69,Michael Xie,domestic,stayer_base,True,4800000000.0,5136000000.0,25671792.0,4774328208.0,5108531182.56,255426559.12800002,Fortinet (FTNT),PUBLIC,,,25671792.0,in_base,
+70,Dagmar Dolby,domestic,stayer_base,True,4800000000.0,5136000000.0,90000000.0,4710000000.0,5039700000.0,251985000.0,Dolby Laboratories (DLB),PUBLIC,,,90000000.0,in_base,
+71,David Filo,domestic,stayer_base,True,4500000000.0,4815000000.0,28621607.0,4471378393.0,4784374880.51,239218744.02550003,"Yahoo/Altaba dissolved, diversified",OTHER,,,28621607.0,in_base,
+72,Rupert Johnson Jr,domestic,stayer_base,True,4400000000.0,4708000000.0,27985571.0,4372014429.0,4678055439.03,233902771.9515,Franklin Templeton (BEN),PUBLIC,,,27985571.0,in_base,
+73,Anthony Pritzker,domestic,stayer_base,True,4400000000.0,4708000000.0,195000000.0,4205000000.0,4499350000.0,224967500.0,"Pritzker Group, diversified",OTHER,,,195000000.0,in_base,
+74,Rodney Sacks,domestic,stayer_base,True,4300000000.0,4601000000.0,27349536.0,4272650464.0,4571735996.48,228586799.824,Monster Beverage (MNST),PUBLIC,,,27349536.0,in_base,
+75,Donald Sterling,domestic,stayer_base,True,4300000000.0,4601000000.0,29825465.0,4270174535.0,4569086752.45,228454337.6225,Real estate/private (ex-Clippers),OTHER,,,29825465.0,in_base,
+76,Sanjit Biswas,domestic,stayer_base,True,4100000000.0,4387000000.0,26077464.0,4073922536.0,4359097113.52,217954855.67600003,Samsara (IOT),PUBLIC,,,26077464.0,in_base,
+77,Thomas Siebel,domestic,stayer_base,True,4000000000.0,4280000000.0,25441429.0,3974558571.0,4252777670.97,212638883.5485,C3.ai (AI) + prior Siebel Systems,PUBLIC,,,25441429.0,in_base,
+78,John Bicket,domestic,stayer_base,True,4000000000.0,4280000000.0,25441429.0,3974558571.0,4252777670.97,212638883.5485,Unknown/unclear,OTHER,,,25441429.0,in_base,
+79,José E. Feliciano,domestic,stayer_base,True,3800000000.0,4066000000.0,50000000.0,3750000000.0,4012500000.0,200625000.0,Clearlake Capital (private PE),VCPE,,,50000000.0,in_base,
+80,Meg Whitman,domestic,removed_prefiling,False,3800000000.0,4066000000.0,6500000.0,3793500000.0,4059045000.0,202952250.0,"eBay/HP exec, diversified",OTHER,,,6500000.0,removed_pre_filing,Departed California before the Oct 15 2025 initiative filing (Section 3.3)
+81,Behdad Eghbali,domestic,stayer_base,True,3800000000.0,4066000000.0,21000000.0,3779000000.0,4043530000.0,202176500.0,Clearlake Capital (private PE),VCPE,,,21000000.0,in_base,
+82,Peter Gassner,domestic,stayer_base,True,3800000000.0,4066000000.0,1977425.0,3798022575.0,4063884155.25,203194207.76250002,Veeva Systems (VEEV),PUBLIC,,,1977425.0,in_base,
+83,John Fisher,domestic,stayer_base,True,3700000000.0,3959000000.0,29250000.0,3670750000.0,3927702500.0,196385125.0,Gap Inc. (GPS),PUBLIC,,,29250000.0,in_base,
+84,Danny Harris,domestic,stayer_base,True,3700000000.0,3959000000.0,30000000.0,3670000000.0,3926900000.0,196345000.0,Unknown/unclear,OTHER,,,30000000.0,in_base,
+85,Jared Kaplan,domestic,stayer_base,True,3700000000.0,3959000000.0,23533321.0,3676466679.0,3933819346.53,196690967.32650003,Anthropic (private AI),VCPE,,,23533321.0,in_base,
+86,Dario Amodei,domestic,stayer_base,True,3700000000.0,3959000000.0,23533321.0,3676466679.0,3933819346.53,196690967.32650003,Anthropic (private AI),VCPE,,,23533321.0,in_base,
+87,Tom Brown,domestic,stayer_base,True,3700000000.0,3959000000.0,2572000.0,3697428000.0,3956247960.0,197812398.0,Anthropic (private AI),VCPE,,,2572000.0,in_base,
+88,Jack Clark,domestic,stayer_base,True,3700000000.0,3959000000.0,23533321.0,3676466679.0,3933819346.53,196690967.32650003,Anthropic (private AI),VCPE,,,23533321.0,in_base,
+89,Sam McCandlish,domestic,stayer_base,True,3700000000.0,3959000000.0,4831145.0,3695168855.0,3953830674.85,197691533.7425,Anthropic (private AI),VCPE,,,4831145.0,in_base,
+90,Daniela Amodei,domestic,stayer_base,True,3700000000.0,3959000000.0,23533321.0,3676466679.0,3933819346.53,196690967.32650003,Anthropic (private AI),VCPE,,,23533321.0,in_base,
+91,Marco DeGeorge,domestic,stayer_base,True,3600000000.0,3852000000.0,12982483.0,3587017517.0,3838108743.19,191905437.1595,Unknown/unclear,OTHER,,,12982483.0,in_base,
+92,Kavitark Ram Shriram,domestic,stayer_base,True,3600000000.0,3852000000.0,22897286.0,3577102714.0,3827499903.98,191374995.199,Google early investor (GOOGL shares),PUBLIC,,,22897286.0,in_base,
+93,Hemant Taneja,domestic,stayer_base,True,3600000000.0,3852000000.0,13784748.0,3586215252.0,3837250319.64,191862515.982,General Catalyst (VC),VCPE,,,13784748.0,in_base,
+94,Richard Peery,domestic,stayer_base,True,3500000000.0,3745000000.0,22261250.0,3477738750.0,3721180462.5,186059023.125,Private real estate investment,VCPE,,,22261250.0,in_base,
+95,Brian Acton,domestic,stayer_base,True,3500000000.0,3745000000.0,86000000.0,3414000000.0,3652980000.0,182649000.0,"WhatsApp exit proceeds, diversified",OTHER,,,86000000.0,in_base,
+96,Travis Kalanick,domestic,removed_departed,False,3500000000.0,3745000000.0,43300000.0,3456700000.0,3698669000.0,184933450.0,CloudKitchens (private),VCPE,,,43300000.0,moving_pre_snapshot,Confirmed departure between the Oct 2025 filing and the Jan 1 2026 residency snapshot (Section 4.3)
+97,Palmer Luckey,domestic,ambiguous,True,3500000000.0,3745000000.0,12500000.0,3487500000.0,3731625000.0,186581250.0,Anduril Industries (private defense),VCPE,,,12500000.0,in_base,Departure signals that do not meet the threshold for confirmed departure; remains in the recognized base at q = 0.50 (Section 4.4)
+98,Parker Conrad,domestic,stayer_base,True,3400000000.0,3638000000.0,21625214.0,3378374786.0,3614861021.02,180743051.051,Rippling (private HR software),VCPE,,,21625214.0,in_base,
+99,Frank Slootman,domestic,removed_prefiling,False,3300000000.0,3531000000.0,10243300.0,3289756700.0,3520039669.0,176001983.45000002,Snowflake (SNOW),PUBLIC,,,10243300.0,removed_pre_filing,Departed California before the Oct 15 2025 initiative filing (Section 3.3)
+100,George Argyros,domestic,stayer_base,True,3200000000.0,3424000000.0,42000000.0,3158000000.0,3379060000.0,168953000.0,Arnel Group (private RE/PE),VCPE,,,42000000.0,in_base,
+101,Jay Paul,domestic,stayer_base,True,3200000000.0,3424000000.0,28250000.0,3171750000.0,3393772500.0,169688625.0,Private real estate development,VCPE,,,28250000.0,in_base,
+102,Vasily Shikin,domestic,stayer_base,True,3200000000.0,3424000000.0,20353143.0,3179646857.0,3402222136.99,170111106.8495,Unknown/unclear,OTHER,,,20353143.0,in_base,
+103,Haim Saban,domestic,stayer_base,True,3200000000.0,3424000000.0,57500000.0,3142500000.0,3362475000.0,168123750.0,"Entertainment/media, diversified",OTHER,,,57500000.0,in_base,
+104,Alexandr Wang,domestic,stayer_base,True,3200000000.0,3424000000.0,20353143.0,3179646857.0,3402222136.99,170111106.8495,Scale AI (private),VCPE,,,20353143.0,in_base,
+105,Jeff Rothschild,domestic,stayer_base,True,3200000000.0,3424000000.0,20353143.0,3179646857.0,3402222136.99,170111106.8495,Meta (META) early exec shares,PUBLIC,,,20353143.0,in_base,
+106,William Chisholm,domestic,stayer_base,True,3100000000.0,3317000000.0,15563106.0,3084436894.0,3300347476.58,165017373.829,Unknown/unclear,OTHER,,,15563106.0,in_base,
+107,Oprah Winfrey,domestic,stayer_base,True,3100000000.0,3317000000.0,150000000.0,2950000000.0,3156500000.0,157825000.0,"Entertainment, diversified",OTHER,,,150000000.0,in_base,
+108,Jerry Yang,domestic,stayer_base,True,3000000000.0,3210000000.0,19081071.0,2980918929.0,3189583254.03,159479162.70150003,"Yahoo exit, diversified",OTHER,,,19081071.0,in_base,
+109,Sean Parker,domestic,stayer_base,True,3000000000.0,3210000000.0,55000000.0,2945000000.0,3151150000.0,157557500.0,Meta (META) early shares + other,PUBLIC,,,55000000.0,in_base,
+110,Nicolas Berggruen,domestic,stayer_base,True,2900000000.0,3103000000.0,63100000.0,2836900000.0,3035483000.0,151774150.0,"Berggruen Holdings, diversified",OTHER,,,63100000.0,in_base,
+111,Aneel Bhusri,domestic,stayer_base,True,2900000000.0,3103000000.0,12072842.0,2887927158.0,3090082059.06,154504102.953,Workday (WDAY),PUBLIC,,,12072842.0,in_base,
+112,Tim Draper,domestic,stayer_base,True,2800000000.0,2996000000.0,17197000.0,2782803000.0,2977599210.0,148879960.5,Draper Fisher Jurvetson (VC),VCPE,,,17197000.0,in_base,
+113,Daniel Pritzker,domestic,stayer_base,True,2800000000.0,2996000000.0,17809000.0,2782191000.0,2976944370.0,148847218.5,"Pritzker family, diversified",OTHER,,,17809000.0,in_base,
+114,Jed McCaleb,domestic,stayer_base,True,2800000000.0,2996000000.0,17809000.0,2782191000.0,2976944370.0,148847218.5,Stellar/XRP crypto,OTHER,,,17809000.0,in_base,
+115,Fred Ehrsam,domestic,stayer_base,True,2800000000.0,2996000000.0,17809000.0,2782191000.0,2976944370.0,148847218.5,Paradigm (crypto VC fund),VCPE,,,17809000.0,in_base,
+116,Tony Xu,domestic,stayer_base,True,2700000000.0,2889000000.0,17172964.0,2682827036.0,2870624928.52,143531246.426,DoorDash (DASH),PUBLIC,,,17172964.0,in_base,
+117,John Pritzker,domestic,stayer_base,True,2600000000.0,2782000000.0,16536929.0,2583463071.0,2764305485.97,138215274.2985,"Pritzker family, diversified",OTHER,,,16536929.0,in_base,
+118,George Joseph,domestic,stayer_base,True,2600000000.0,2782000000.0,17143216.0,2582856784.0,2763656758.88,138182837.944,Mercury Insurance (MCY),PUBLIC,,,17143216.0,in_base,
+119,Jeff T. Green,domestic,stayer_base,True,2600000000.0,2782000000.0,12300000.0,2587700000.0,2768839000.0,138441950.0,The Trade Desk (TTD),PUBLIC,,,12300000.0,in_base,
+120,Tim Cook,domestic,stayer_base,True,2600000000.0,2782000000.0,10000000.0,2590000000.0,2771300000.0,138565000.0,Apple (AAPL) executive shares,PUBLIC,,,10000000.0,in_base,
+121,Anthony Wood,domestic,stayer_base,True,2500000000.0,2675000000.0,15900893.0,2484099107.0,2657986044.49,132899302.2245,Roku (ROKU),PUBLIC,,,15900893.0,in_base,
+122,Evan Spiegel,domestic,stayer_base,True,2500000000.0,2675000000.0,120000000.0,2380000000.0,2546600000.0,127330000.0,Snap Inc. (SNAP),PUBLIC,,,120000000.0,in_base,
+123,Barbara Banke,domestic,stayer_base,True,2500000000.0,2675000000.0,15900893.0,2484099107.0,2657986044.49,132899302.2245,Jackson Family Wines (private),VCPE,,,15900893.0,in_base,
+124,Herald Chen,domestic,stayer_base,True,2400000000.0,2568000000.0,11668997.0,2388331003.0,2555514173.21,127775708.6605,KKR partner (PE carry/co-investments),VCPE,,,11668997.0,in_base,
+125,Reid Hoffman,domestic,ambiguous,True,2400000000.0,2568000000.0,15264857.0,2384735143.0,2551666603.01,127583330.15050001,LinkedIn exit (MSFT) + Greylock VC,OTHER,,,15264857.0,in_base,Departure signals that do not meet the threshold for confirmed departure; remains in the recognized base at q = 0.50 (Section 4.4)
+126,Jeff Tangney,domestic,stayer_base,True,2400000000.0,2568000000.0,13339211.0,2386660789.0,2553727044.23,127686352.2115,Doximity (DOCS),PUBLIC,,,13339211.0,in_base,
+127,Bennett Rosenthal,domestic,stayer_base,True,2300000000.0,2461000000.0,8683316.0,2291316684.0,2451708851.88,122585442.59400001,Ares Management (ARES),PUBLIC,,,8683316.0,in_base,
+128,Bruce Karsh,domestic,stayer_base,True,2300000000.0,2461000000.0,68820000.0,2231180000.0,2387362600.0,119368130.0,Oaktree Capital (OAK/Brookfield),PUBLIC,,,68820000.0,in_base,
+129,Sheryl Sandberg,domestic,stayer_base,True,2300000000.0,2461000000.0,11000000.0,2289000000.0,2449230000.0,122461500.0,Meta Platforms (META) executive,PUBLIC,,,11000000.0,in_base,
+130,Joe Lacob,domestic,stayer_base,True,2300000000.0,2461000000.0,19800000.0,2280200000.0,2439814000.0,121990700.0,Golden State Warriors + KPCB VC,OTHER,,,19800000.0,in_base,
+131,Kevin Systrom,domestic,stayer_base,True,2300000000.0,2461000000.0,14628821.0,2285371179.0,2445347161.53,122267358.07650001,Instagram exit -> Meta (META) shares,PUBLIC,,,14628821.0,in_base,
+132,Kenneth Hao,domestic,stayer_base,True,2300000000.0,2461000000.0,9411000.0,2290589000.0,2450930230.0,122546511.5,Silver Lake (private PE),VCPE,,,9411000.0,in_base,
+133,David Kaplan,domestic,stayer_base,True,2200000000.0,2354000000.0,13992786.0,2186007214.0,2339027718.98,116951385.949,Ares Management (ARES),PUBLIC,,,13992786.0,in_base,
+134,Egon Durban,domestic,stayer_base,True,2200000000.0,2354000000.0,13992786.0,2186007214.0,2339027718.98,116951385.949,Silver Lake (private PE),VCPE,,,13992786.0,in_base,
+135,Tom Ford,domestic,ambiguous,True,2200000000.0,2354000000.0,38750000.0,2161250000.0,2312537500.0,115626875.0,"Tom Ford brand sold, diversified",OTHER,,,38750000.0,in_base,Departure signals that do not meet the threshold for confirmed departure; remains in the recognized base at q = 0.50 (Section 4.4)
+136,Max Levchin,domestic,stayer_base,True,2200000000.0,2354000000.0,13992786.0,2186007214.0,2339027718.98,116951385.949,Affirm (AFRM),PUBLIC,,,13992786.0,in_base,
+137,Irving Grousbeck,domestic,stayer_base,True,2200000000.0,2354000000.0,13992786.0,2186007214.0,2339027718.98,116951385.949,"Boston Celtics/Stanford, diversified",OTHER,,,13992786.0,in_base,
+138,James Scapa,domestic,stayer_base,True,2200000000.0,2354000000.0,30000000.0,2170000000.0,2321900000.0,116095000.0,Altair Engineering (ALTR),PUBLIC,,,30000000.0,in_base,
+139,Surya Midha,domestic,stayer_base,True,2200000000.0,2354000000.0,13992786.0,2186007214.0,2339027718.98,116951385.949,Unknown/unclear,OTHER,,,13992786.0,in_base,
+140,Brendan Foody,domestic,stayer_base,True,2200000000.0,2354000000.0,13992786.0,2186007214.0,2339027718.98,116951385.949,Unknown/unclear,OTHER,,,13992786.0,in_base,
+141,Adarsh Hiremath,domestic,stayer_base,True,2200000000.0,2354000000.0,13992786.0,2186007214.0,2339027718.98,116951385.949,Unknown/unclear,OTHER,,,13992786.0,in_base,
+142,Sarah MacMillan,domestic,stayer_base,True,2100000000.0,2247000000.0,13356750.0,2086643250.0,2232708277.5,111635413.875,Cargill family (private ag),VCPE,,,13356750.0,in_base,
+143,Jon Winkelried,domestic,stayer_base,True,2100000000.0,2247000000.0,5512000.0,2094488000.0,2241102160.0,112055108.0,TPG Inc. (TPG),PUBLIC,,,5512000.0,in_base,
+144,Richard Saghian,domestic,stayer_base,True,2100000000.0,2247000000.0,141000000.0,1959000000.0,2096130000.0,104806500.0,Fashion Nova (private),VCPE,,,141000000.0,in_base,
+145,Alec Gores,domestic,stayer_base,True,2100000000.0,2247000000.0,17000000.0,2083000000.0,2228810000.0,111440500.0,The Gores Group (private PE),VCPE,,,17000000.0,in_base,
+146,Walter Wang,domestic,stayer_base,True,2000000000.0,2140000000.0,34000000.0,1966000000.0,2103620000.0,105181000.0,JM Eagle,VCPE,,,34000000.0,in_base,
+147,Patrick Hanrahan,domestic,stayer_base,True,2000000000.0,2140000000.0,7322885.0,1992677115.0,2132164513.05,106608225.6525,"Pixar exit (Disney stock/cash), div.",OTHER,,,7322885.0,in_base,
+148,Tom Werner,domestic,ambiguous,True,2000000000.0,2140000000.0,12720714.0,1987279286.0,2126388836.02,106319441.801,"Sports/media (Red Sox, Liverpool)",OTHER,,,12720714.0,in_base,Departure signals that do not meet the threshold for confirmed departure; remains in the recognized base at q = 0.50 (Section 4.4)
+149,Thomas Steyer,domestic,stayer_base,True,2000000000.0,2140000000.0,12720714.0,1987279286.0,2126388836.02,106319441.801,Farallon Capital (private hedge fund),OTHER,,,12720714.0,in_base,
+150,Bobby Murphy,domestic,stayer_base,True,2000000000.0,2140000000.0,12720714.0,1987279286.0,2126388836.02,106319441.801,Snap Inc. (SNAP),PUBLIC,,,12720714.0,in_base,
+151,Dylan Field,domestic,stayer_base,True,2000000000.0,2140000000.0,12720714.0,1987279286.0,2126388836.02,106319441.801,"Figma (private, post-Adobe deal fail)",VCPE,,,12720714.0,in_base,
+152,Sam Altman,domestic,stayer_base,True,1900000000.0,2033000000.0,27000000.0,1873000000.0,2004110000.0,100205500.0,OpenAI (private AI),VCPE,,,27000000.0,in_base,
+153,Geoffrey Palmer,domestic,stayer_base,True,1900000000.0,2033000000.0,12084679.0,1887915321.0,2020069393.47,101003469.6735,Palmer real estate (private),VCPE,,,12084679.0,in_base,
+154,Evan Williams,domestic,stayer_base,True,1900000000.0,2033000000.0,12084679.0,1887915321.0,2020069393.47,101003469.6735,"Twitter/Medium exits, diversified",OTHER,,,12084679.0,in_base,
+155,Riaz Valani,domestic,ambiguous,True,1900000000.0,2033000000.0,110000000.0,1790000000.0,1915300000.0,95765000.0,"Global Asset Capital, unclear",OTHER,,,110000000.0,in_base,Departure signals that do not meet the threshold for confirmed departure; remains in the recognized base at q = 0.50 (Section 4.4)
+156,Marc Andreessen,domestic,stayer_base,True,1900000000.0,2033000000.0,177000000.0,1723000000.0,1843610000.0,92180500.0,Andreessen Horowitz / a16z (VC),VCPE,,,177000000.0,in_base,
+157,Kim Kardashian,domestic,stayer_base,True,1800000000.0,1926000000.0,60000000.0,1740000000.0,1861800000.0,93090000.0,SKIMS (private),VCPE,,,60000000.0,in_base,
+158,Mark Attanasio,domestic,stayer_base,True,1800000000.0,1926000000.0,11448643.0,1788551357.0,1913749951.99,95687497.5995,Crescent Capital (private credit/PE),VCPE,,,11448643.0,in_base,
+159,Andy Fang,domestic,stayer_base,True,1700000000.0,1819000000.0,10812607.0,1689187393.0,1807430510.51,90371525.5255,DoorDash (DASH),PUBLIC,,,10812607.0,in_base,
+160,Robert Fisher,domestic,stayer_base,True,1700000000.0,1819000000.0,10812607.0,1689187393.0,1807430510.51,90371525.5255,Gap Inc. (GPS),PUBLIC,,,10812607.0,in_base,
+161,Gary Michelson,domestic,stayer_base,True,1700000000.0,1819000000.0,23900000.0,1676100000.0,1793427000.0,89671350.0,"Medical patents, diversified",OTHER,,,23900000.0,in_base,
+162,William Fisher,domestic,stayer_base,True,1700000000.0,1819000000.0,10812607.0,1689187393.0,1807430510.51,90371525.5255,Gap Inc. (GPS),PUBLIC,,,10812607.0,in_base,
+163,Paul Sciarra,domestic,stayer_base,True,1700000000.0,1819000000.0,10812607.0,1689187393.0,1807430510.51,90371525.5255,Pinterest (PINS),PUBLIC,,,10812607.0,in_base,
+164,Nicholas Pritzker,domestic,stayer_base,True,1600000000.0,1712000000.0,10176571.0,1589823429.0,1701111069.03,85055553.4515,"Pritzker family, diversified",OTHER,,,10176571.0,in_base,
+165,Edward Glazer,domestic,stayer_base,True,1600000000.0,1712000000.0,10176571.0,1589823429.0,1701111069.03,85055553.4515,"Tampa Bay Buccaneers, RE, diversified",OTHER,,,10176571.0,in_base,
+166,Bill Gross,domestic,stayer_base,True,1600000000.0,1712000000.0,35820000.0,1564180000.0,1673672600.0,83683630.0,"PIMCO founder, diversified financial",OTHER,,,35820000.0,in_base,
+167,Art Levinson,domestic,stayer_base,True,1600000000.0,1712000000.0,10176571.0,1589823429.0,1701111069.03,85055553.4515,"Genentech/Apple board, diversified",OTHER,,,10176571.0,in_base,
+168,Kevin Marchetti,domestic,stayer_base,True,1600000000.0,1712000000.0,10176571.0,1589823429.0,1701111069.03,85055553.4515,Unknown/unclear,OTHER,,,10176571.0,in_base,
+169,Jeffrey Gundlach,domestic,stayer_base,True,1600000000.0,1712000000.0,15000000.0,1585000000.0,1695950000.0,84797500.0,DoubleLine Capital (private),VCPE,,,15000000.0,in_base,
+170,Sue Gross,domestic,stayer_base,True,1600000000.0,1712000000.0,8030000.0,1591970000.0,1703407900.0,85170395.0,"PIMCO divorce proceeds, diversified",OTHER,,,8030000.0,in_base,
+171,Michael Cagney,domestic,stayer_base,True,1600000000.0,1712000000.0,10961462.0,1589038538.0,1700271235.66,85013561.783,Figure / SoFi private fintech,VCPE,,,10961462.0,in_base,
+172,Charles Liang,domestic,stayer_base,True,1600000000.0,1712000000.0,10176571.0,1589823429.0,1701111069.03,85055553.4515,Super Micro Computer (SMCI),PUBLIC,,,10176571.0,in_base,
+173,Benoit Dageville,domestic,stayer_base,True,1600000000.0,1712000000.0,10176571.0,1589823429.0,1701111069.03,85055553.4515,Snowflake (SNOW),PUBLIC,,,10176571.0,in_base,
+174,Doris Fisher,domestic,stayer_base,True,1500000000.0,1605000000.0,15398401.0,1484601599.0,1588523710.93,79426185.54650001,Gap Inc. (GPS),PUBLIC,,,15398401.0,in_base,
+175,Steven Tisch,domestic,stayer_base,True,1500000000.0,1605000000.0,15713764.0,1484286236.0,1588186272.52,79409313.626,"Entertainment/media, diversified",OTHER,,,15713764.0,in_base,
+176,Peter Guber,domestic,stayer_base,True,1500000000.0,1605000000.0,9540536.0,1490459464.0,1594791626.48,79739581.324,"Sports/entertainment, diversified",OTHER,,,9540536.0,in_base,
+177,Ben Silbermann,domestic,stayer_base,True,1500000000.0,1605000000.0,6016000.0,1493984000.0,1598562880.0,79928144.0,Pinterest (PINS),PUBLIC,,,6016000.0,in_base,
+178,Nikil Viswanathan,domestic,stayer_base,True,1500000000.0,1605000000.0,9540536.0,1490459464.0,1594791626.48,79739581.324,Alchemy (private web3/crypto infra),VCPE,,,9540536.0,in_base,
+179,Joe Lau,domestic,stayer_base,True,1500000000.0,1605000000.0,9540536.0,1490459464.0,1594791626.48,79739581.324,Unknown/unclear,OTHER,,,9540536.0,in_base,
+180,Mike Speiser,domestic,stayer_base,True,1500000000.0,1605000000.0,9540536.0,1490459464.0,1594791626.48,79739581.324,Sutter Hill Ventures (VC),VCPE,,,9540536.0,in_base,
+181,Sundar Pichai,domestic,stayer_base,True,1500000000.0,1605000000.0,8195833.0,1491804167.0,1596230458.69,79811522.93450001,Google/Alphabet (GOOGL) CEO shares,PUBLIC,,,8195833.0,in_base,
+182,Michael Teel,domestic,stayer_base,True,1500000000.0,1605000000.0,9540536.0,1490459464.0,1594791626.48,79739581.324,Raley's (private grocery chain),VCPE,,,9540536.0,in_base,
+183,Magic Johnson,domestic,stayer_base,True,1400000000.0,1498000000.0,19420738.0,1380579262.0,1477219810.34,73860990.517,"Magic Johnson Enterprises, diversified",OTHER,,,19420738.0,in_base,
+184,George Marcus,domestic,stayer_base,True,1400000000.0,1498000000.0,7271292.0,1392728708.0,1490219717.56,74510985.878,Marcus & Millichap (MMI),PUBLIC,,,7271292.0,in_base,
+185,Mark Pincus,domestic,stayer_base,True,1400000000.0,1498000000.0,8904500.0,1391095500.0,1488472185.0,74423609.25,Zynga/Take-Two + diversified,OTHER,,,8904500.0,in_base,
+186,Lucy Guo,domestic,stayer_base,True,1400000000.0,1498000000.0,29500000.0,1370500000.0,1466435000.0,73321750.0,Scale AI + Backend Capital (VC),VCPE,,,29500000.0,in_base,
+187,Brett Adcock,domestic,stayer_base,True,1400000000.0,1498000000.0,8904500.0,1391095500.0,1488472185.0,74423609.25,Archer Aviation (ACHR),PUBLIC,,,8904500.0,in_base,
+188,Nikesh Arora,domestic,stayer_base,True,1400000000.0,1498000000.0,8904500.0,1391095500.0,1488472185.0,74423609.25,Palo Alto Networks (PANW),PUBLIC,,,8904500.0,in_base,
+189,Thierry Cruanes,domestic,stayer_base,True,1300000000.0,1391000000.0,2648000.0,1297352000.0,1388166640.0,69408332.0,Snowflake (SNOW),PUBLIC,,,2648000.0,in_base,
+190,Sanjay Gajendra,domestic,stayer_base,True,1300000000.0,1391000000.0,8089000.0,1291911000.0,1382344770.0,69117238.5,Unknown/unclear,OTHER,,,8089000.0,in_base,
+191,Jitendra Mohan,domestic,stayer_base,True,1300000000.0,1391000000.0,14634965.0,1285365035.0,1375340587.45,68767029.3725,Unknown/unclear,OTHER,,,14634965.0,in_base,
+192,Frederic Luddy,domestic,stayer_base,True,1300000000.0,1391000000.0,13000000.0,1287000000.0,1377090000.0,68854500.0,ServiceNow (NOW),PUBLIC,,,13000000.0,in_base,
+193,Marissa Mayer,domestic,stayer_base,True,1300000000.0,1391000000.0,35000000.0,1265000000.0,1353550000.0,67677500.0,"Yahoo/Altaba dissolved, diversified",OTHER,,,35000000.0,in_base,
+194,Richard Kayne,domestic,stayer_base,True,1300000000.0,1391000000.0,8268464.0,1291731536.0,1382152743.52,69107637.176,Kayne Anderson (private investments),VCPE,,,8268464.0,in_base,
+195,JoeBen Bevirt,domestic,stayer_base,True,1300000000.0,1391000000.0,8268464.0,1291731536.0,1382152743.52,69107637.176,Joby Aviation (JOBY),PUBLIC,,,8268464.0,in_base,
+196,Shyam Sankar,domestic,ambiguous,True,1300000000.0,1391000000.0,6797000.0,1293203000.0,1383727210.0,69186360.5,Palantir (PLTR) CTO shares,PUBLIC,,,6797000.0,in_base,Departure signals that do not meet the threshold for confirmed departure; remains in the recognized base at q = 0.50 (Section 4.4)
+197,LeBron James,domestic,stayer_base,True,1300000000.0,1391000000.0,70000000.0,1230000000.0,1316100000.0,65805000.0,Entertainment/sports/SpringHill,OTHER,,,70000000.0,in_base,
+198,Aman Sanger,domestic,stayer_base,True,1300000000.0,1391000000.0,8268464.0,1291731536.0,1382152743.52,69107637.176,Unknown/unclear,OTHER,,,8268464.0,in_base,
+199,Michael Truell,domestic,stayer_base,True,1300000000.0,1391000000.0,8268464.0,1291731536.0,1382152743.52,69107637.176,Anysphere/Cursor (private AI),VCPE,,,8268464.0,in_base,
+200,Steve Huffman,domestic,stayer_base,True,1200000000.0,1284000000.0,7632429.0,1192367571.0,1275833300.97,63791665.0485,Reddit (RDDT),PUBLIC,,,7632429.0,in_base,
+201,Stanley Tang,domestic,stayer_base,True,1200000000.0,1284000000.0,7632429.0,1192367571.0,1275833300.97,63791665.0485,DoorDash (DASH),PUBLIC,,,7632429.0,in_base,
+202,Donald Friese,domestic,stayer_base,True,1200000000.0,1284000000.0,5413302.0,1194586698.0,1278207766.86,63910388.342999995,Unknown/unclear,OTHER,,,5413302.0,in_base,
+203,Jean-Marc Chapus,domestic,stayer_base,True,1200000000.0,1284000000.0,27995000.0,1172005000.0,1254045350.0,62702267.5,Canyon Partners (private credit HF),OTHER,,,27995000.0,in_base,
+204,Arnold Schwarzenegger,domestic,stayer_base,True,1100000000.0,1177000000.0,10887000.0,1089113000.0,1165350910.0,58267545.5,"Entertainment/real estate, diversified",OTHER,,,10887000.0,in_base,
+205,Theresia Gouw,domestic,stayer_base,True,1100000000.0,1177000000.0,13122419.0,1086877581.0,1162959011.67,58147950.583500005,Acrew Capital (VC),VCPE,,,13122419.0,in_base,
+206,Chi Fung Cheng,domestic,stayer_base,True,1100000000.0,1177000000.0,6996393.0,1093003607.0,1169513859.49,58475692.9745,Unknown/unclear,OTHER,,,6996393.0,in_base,
+207,Jeff Lawson,domestic,stayer_base,True,1100000000.0,1177000000.0,6996393.0,1093003607.0,1169513859.49,58475692.9745,Twilio (TWLO),PUBLIC,,,6996393.0,in_base,
+208,Joe Kiani,domestic,stayer_base,True,1100000000.0,1177000000.0,28090701.0,1071909299.0,1146942949.93,57347147.49650001,Masimo (MASI),PUBLIC,,,28090701.0,in_base,
+209,Evan Wallace,domestic,stayer_base,True,1000000000.0,1070000000.0,6360357.0,993639643.0,1063194418.01,53159720.9005,"Figma (private, post-Adobe deal fail)",VCPE,,,6360357.0,in_base,
+210,Tom Preston-Werner,domestic,stayer_base,True,1000000000.0,1070000000.0,6360357.0,993639643.0,1063194418.01,53159720.9005,"GitHub exit (MSFT), diversified",OTHER,,,6360357.0,in_base,
+211,Trae Stephens,domestic,stayer_base,True,1000000000.0,1070000000.0,6360357.0,993639643.0,1063194418.01,53159720.9005,Anduril + Founders Fund (VC/PE),VCPE,,,6360357.0,in_base,
+212,David Sacks,domestic,removed_departed,False,2000000000.0,2140000000.0,12752600.0,1987247400.0,2126354718.0,106317735.9,YOLO Holdings / AI VC investments,VCPE,,,12752600.0,moving_pre_snapshot,Confirmed departure between the Oct 2025 filing and the Jan 1 2026 residency snapshot (Section 4.3)
+1,Andreas Von Bechtolsheim,international,international,False,27700000000.0,29639000000.0,176181889.0,27523818111.0,29450485378.77,1472524268.9385002,Arista Network (ANET) ,PUBLIC,,,176181889.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+2,David Cheriton,international,international,False,21800000000.0,23326000000.0,10000000.0,21790000000.0,23315300000.0,1165765000.0,Arista Network (ANET) ,PUBLIC,,,10000000.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+3,Charles Schwab,international,international,False,13400000000.0,14338000000.0,71850000.0,13328150000.0,14261120500.0,713056025.0,The Charles Schwab Corporation (SCHW) | Local Bounti Corporation (LOCL),PUBLIC,,,71850000.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+4,John Collison,international,international,False,10100000000.0,10807000000.0,27000000.0,10073000000.0,10778110000.0,538905500.0,Stripe (private),VCPE,,,27000000.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+5,Patrick Collison,international,international,False,10100000000.0,10807000000.0,4500000.0,10095500000.0,10802185000.0,540109250.0,Stripe (private),VCPE,,,4500000.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+6,Rocco Basilico,international,international,False,8100000000.0,8667000000.0,51518892.0,8048481108.0,8611874785.560001,430593739.2780001,EssilorLuxottica via 12.5% of Delfin holding (inherited),PUBLIC,,,51518892.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+7,Yuri Milner,international,international,False,6900000000.0,7383000000.0,100000000.0,6800000000.0,7276000000.0,363800000.0,DST Global (VC),VCPE,,,100000000.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+8,Garrett Camp,international,international,False,5400000000.0,5778000000.0,72500000.0,5327500000.0,5700425000.0,285021250.0,"Uber Technologies, Inc. (UBER)",PUBLIC,,,72500000.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+9,Ali Ghodsi,international,international,False,4300000000.0,4601000000.0,27349535.0,4272650465.0,4571735997.55,228586799.87750003,Databricks (private) - cofounder & CEO,VCPE,,,27349535.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+11,Hilton Schlosberg,international,international,False,3500000000.0,3745000000.0,22261250.0,3477738750.0,3721180462.5,186059023.125,Monster Beverage Corporation (MNST),PUBLIC,,,22261250.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+13,Ion Stoica,international,international,False,2500000000.0,2675000000.0,15900892.0,2484099108.0,2657986045.56,132899302.278,Databricks (private) - cofounder & exec chairman | Anyscale | Conviva,VCPE,,,15900892.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+14,Matei Zaharia,international,international,False,2500000000.0,2675000000.0,15900892.0,2484099108.0,2657986045.56,132899302.278,Databricks (private) - cofounder & CTO,VCPE,,,15900892.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+10,Christopher Olah,international,international,False,3700000000.0,3959000000.0,23533321.0,3676466679.0,3933819346.53,196690967.32650003,Anthropic (private) - cofounder,VCPE,,,23533321.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+12,James Packer,international,international,False,3400000000.0,3638000000.0,110000000.0,3290000000.0,3520300000.0,176015000.0,Flutter Entertainment (FLUT) | Spotify (SPOT) | Light & Wonder (LNW) < taken off US stock market,OTHER,,,110000000.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+15,Chen Tei Fu,international,international,False,2400000000.0,2568000000.0,15264857.0,2384735143.0,2551666603.01,127583330.15050001,Sunrider International (private herbal products/MLM),VCPE,,,15264857.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+16,Michelle Zatlyn,international,international,False,2300000000.0,2461000000.0,14628821.0,2285371179.0,2445347161.53,122267358.07650001,"Cloudflare, Inc. (NET)",PUBLIC,,,14628821.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+17,Oren Zeev,international,international,False,2000000000.0,2140000000.0000002,12720714.0,1987279286.0,2126388836.0200002,106319441.80100001,Zeev Ventures (solo VC),VCPE,,,12720714.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+18,Alex Shevchenko,international,international,False,1900000000.0,2033000000.0,12084678.0,1887915322.0,2020069394.5400002,101003469.72700001,Grammarly / Superhuman (private),VCPE,,,12084678.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+19,Max Lytvyn,international,international,False,1900000000.0,2033000000.0,12084678.0,1887915322.0,2020069394.5400002,101003469.72700001,Grammarly / Superhuman (private),VCPE,,,12084678.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+21,Ivan Zhao,international,international,False,1700000000.0,1819000000.0,10812607.0,1689187393.0,1807430510.51,90371525.5255,Notion (private),VCPE,,,10812607.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+20,Pantas Sutardja,international,international,False,1800000000.0,1926000000.0,11448643.0,1788551357.0,1913749951.99,95687497.5995,Marvell cofounder (left 2014); Credo Technology (CRDO) ~3.4%,PUBLIC,,,11448643.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+23,Tianqiao Chen,international,international,False,1400000000.0,1498000000.0,25000000.0,1375000000.0,1471250000.0,73562500.0,Shanda Group (family office; Shanda Interactive founder),OTHER,,,25000000.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+24,Arvid Lunnemark,international,international,False,1300000000.0,1391000000.0,8268464.0,1291731536.0,1382152743.52,69107637.176,Anysphere / Cursor (private),VCPE,,,8268464.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+25,Sualeh Asif,international,international,False,1300000000.0,1391000000.0,8268464.0,1291731536.0,1382152743.52,69107637.176,Anysphere / Cursor (private),VCPE,,,8268464.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+26,Apoorva Mehta,international,international,False,1300000000.0,1391000000.0,8268464.0,1291731536.0,1382152743.52,69107637.176,Instacart (CART),PUBLIC,,,8268464.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+22,Dick Wolf,international,international,False,1500000000.0,1605000000.0,30000000.0,1470000000.0,1572900000.0,78645000.0,Wolf Entertainment - Law & Order / Chicago / FBI TV franchises,OTHER,,,30000000.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+27,Sytse Sid Sijbrandij,international,international,False,1100000000.0,1177000000.0,6996393.0,1093003607.0,1169513859.49,58475692.9745,GitLab Inc. (GTLB),PUBLIC,,,6996393.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
+28,Rihanna,international,international,False,1000000000.0,1070000000.0000001,62000000.0,938000000.0,1003660000.0,50183000.0,Fenty Beauty (co-owned with LVMH) | Savage X Fenty (~28%) | music,VCPE,,,62000000.0,international,Non-U.S. citizen; excluded from the collectible base (Section 3.5)
