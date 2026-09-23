@@ -4,7 +4,7 @@ Replication materials for the NBER working paper version of
 
 **"The Net Present Value of the California Billionaire Tax Act"** (September 2026).
 Benjamin Jaros and Joshua Rauh.
-NBER link: *forthcoming*
+[NBER](https://www.nber.org/system/files/chapters/c15504/c15504.pdf)
 
 The paper has two versions, each built on a different approach to estimating the
 revenue the Act will collect. Both are published in this repository so the
@@ -13,6 +13,7 @@ assumptions behind each can be compared directly:
 1. **European wealth tax elasticity approach** (SSRN version, repository root).
    [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6340778)
 2. **Litigation-risk-weighted approach** (NBER version, this folder).
+   [NBER](https://www.nber.org/system/files/chapters/c15504/c15504.pdf)
 
 This folder holds the materials specific to the second approach. Materials the two
 approaches share, such as the income tax Monte Carlo in Section 5.1, are at the

@@ -11,7 +11,7 @@ Rauh, Jaros, Kearney, Doran, Cosso.
 This repository holds two versions of the paper, each built on a different approach to estimating the revenue the Act will collect:
 
 1. **European wealth tax elasticity approach** (SSRN version, repository root). Observed departures plus a prediction of unobserved departures from European wealth tax migration elasticities: ~$40B in revenue; mean NPV −$24.7B, 71% of simulated outcomes negative. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6340778)
-2. **Litigation-risk-weighted approach** (NBER version, [`NBER_2026_litigation_weighted/`](./NBER_2026_litigation_weighted)). Observed departures plus a probability that the Act survives constitutional challenge, applied to the remaining base: ~$30B in revenue (range $28–36B); mean NPV −$38.9B, 85% of simulated outcomes negative. NBER link forthcoming.
+2. **Litigation-risk-weighted approach** (NBER version, [`NBER_2026_litigation_weighted/`](./NBER_2026_litigation_weighted)). Observed departures plus a probability that the Act survives constitutional challenge, applied to the remaining base: ~$30B in revenue (range $28–36B); mean NPV −$38.9B, 85% of simulated outcomes negative. [NBER](https://www.nber.org/system/files/chapters/c15504/c15504.pdf)
 
 The rest of this README documents the European elasticity approach. The NBER folder's README compares the assumptions of both approaches side by side.
 
